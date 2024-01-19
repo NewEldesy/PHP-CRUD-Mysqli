@@ -8,7 +8,7 @@
         $stmt->bind_param("ss", $nom, $email);
         $stmt->execute();
 
-        header("Location: index.php?message=0");
+        header("Location: index.php?message=1");
     }
 ?>
 
