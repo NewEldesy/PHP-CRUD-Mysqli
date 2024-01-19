@@ -1,6 +1,6 @@
 # Projet CRUD en PHP avec MySQLi
 
-Ce projet est une application CRUD (Create, Read, Update, Delete) en PHP utilisant la base de données MySQLi. Il permet de gérer les utilisateurs dans une table nommée `users` avec les colonnes `id`, `nom`, et `email`.
+Ce projet est une application CRUD (Create, Read, Update, Delete) en PHP utilisant la base de données MySQL. Il permet de gérer les utilisateurs dans une table nommée `users` avec les colonnes `id`, `nom`, et `email`.
 
 ## Configuration de la Base de Données
 
